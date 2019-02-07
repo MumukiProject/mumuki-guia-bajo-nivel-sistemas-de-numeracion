@@ -1,0 +1,1 @@
+Parece que faltó aclarar algo! Los restos de dos dígitos (del 10 al 15) se representan con letras (de la A a la F)

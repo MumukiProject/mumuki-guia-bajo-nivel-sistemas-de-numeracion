@@ -1,0 +1,1 @@
+Ayuda: la interpretación de la cadena 100 en bss(3) es 2^2. La cadena anterior es 011, es decir que su interpretación es 2^2-1

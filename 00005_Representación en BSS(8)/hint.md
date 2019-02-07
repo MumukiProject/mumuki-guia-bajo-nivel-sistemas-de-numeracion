@@ -1,0 +1,1 @@
+No te olvides que tu cadena debe tener 8 bits! Siempre podes completarla con 0s a la izquierda!

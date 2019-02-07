@@ -1,0 +1,1 @@
+Interpretar la cadena '11001111' y **dar su valor final**

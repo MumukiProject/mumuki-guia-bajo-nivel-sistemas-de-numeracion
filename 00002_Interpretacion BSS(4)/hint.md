@@ -1,0 +1,1 @@
+Tener en cuenta que cada bit que se agrega a la izquierda, duplica en peso a su bit inmediato anterior (el de la derecha). Por ejemplo, en un sistema BSS(2) los pesos de los bits son (de izquierda a derecha) 2^1 y 2^0 y en un sistema BSS(3), el nuevo bit tiene peso 2^2= 2 x 2^1 (el doble del anterior)

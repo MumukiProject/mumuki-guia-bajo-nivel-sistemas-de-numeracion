@@ -1,0 +1,1 @@
+Veamos como sale cuando tenemos un bit mas

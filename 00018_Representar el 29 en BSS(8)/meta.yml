@@ -1,0 +1,9 @@
+---
+tags: []
+layout: input_right
+editor: text
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices: []
+name: Representar el 29 en BSS(8)
