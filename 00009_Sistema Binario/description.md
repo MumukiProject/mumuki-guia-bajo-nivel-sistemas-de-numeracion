@@ -1,4 +1,4 @@
-## Interpretando en el sistema binario
+## Interpretando en el sistema binario :one:
 
 La **interpretación** es el proceso por el cual se obtiene el valor de una cadena dada. 
 
