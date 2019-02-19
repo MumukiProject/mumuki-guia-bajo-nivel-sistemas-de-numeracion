@@ -1,6 +1,6 @@
 Una forma de interpretar los números que nos puede servir para todos los sistemas consiste en utilizar la **base**. En el sistema decimal la base es **diez**, por la cantidad de símbolos que tenemos (:zero::one::two::three::four::five::six::seven::eight::nine:).
 
-Para realizar esa interpretación nos van a resultar útiles las potencias de la base de nuestro sistema, que en este caso es diez. Recordá:
+Para realizar esa interpretación nos van a resultar útiles las potencias de la base de nuestro sistema, que como dijimos recién, es diez. Recordá:
 
 |Potencia|Resultado|
 |------|-------|
