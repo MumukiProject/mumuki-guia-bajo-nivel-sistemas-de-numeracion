@@ -4,6 +4,9 @@ Esto sirve para cualquier número, sin importar cuán grande es. Por ejemplo, el
 
 `:seven: *10^6 + :one: * 10^5 + :three: * 10^4 + :zero: * 10^3 + :six: * 10^2 + :four: * 10^1 + :four: * 10^0`
 
-Si bien queda largo de escribir, la lógica detrás de la interpretación es la misma.
+Es un poco largo de escribir, ¡pero puede acortarse! Como multiplicar por cero no modifica el resultado, podemos quitar esa parte:
+
+`:seven: *10^6 + :one: * 10^5 + :three: * 10^4 + :six: * 10^2 + :four: * 10^1 + :four: * 10^0`
+
 
 Intentemos llevar esto al sistema binario... :hushed:
