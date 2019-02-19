@@ -1,4 +1,9 @@
-## ¿Que es un sistema de numeración?
+A lo largo de la historia, los seres humanos han ido utilizando distintas técnicas para representar números: los egipcios usaban jeroglíficos, los romanos usaban letras, y nosotros en la actualidad utilizamos el **sistema de numeración decimal**. Los diez dígitos que conocemos, :zero::one::two::three::four::five::six::seven::eight::nine:, sirven para representar todos los números que existen - y así podemos leerlos, transmitirlos, almacenarlos y comunicarlos. 
+
+¡Pero el decimal no es el único sistema de numeración que existe! En el mundo de la computación :computer: también se utilizan otros sistemas, como el **binario**, el **octal** y el **hexadecimal**. ¡Aprendamos sobre ellos! :grin:
+
+------------
+
 El sistema de numeración provee un mecanismo para representar números y así poder leerlos, transmitirlos, almacenarlos y comunicarlos.
 
 Cada sistema propone una forma particular de escribir números, con sus propiedades y limitaciones. Por ejemplo, el sistema romano no permite escribir números negativos o fracciones.
