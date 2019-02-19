@@ -1,0 +1,21 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: ":nine: * 10^3 + :three: * 10^2 + :six: * 10^1"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: ":nine: + 10^2 + :three: + 10^1 + :six: + 10^0"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: ":nine: * 10^2 + :three: * 10^1 + :six: * 10^0"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: ":nine: * 10^1 + :three: * 10^2 + :six: * 10^3"
+  checked: false
+name: Interpretando decimal
