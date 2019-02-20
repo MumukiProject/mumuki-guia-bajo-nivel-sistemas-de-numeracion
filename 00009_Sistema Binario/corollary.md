@@ -1,1 +1,0 @@
-Ahora si, a poner en práctica!
