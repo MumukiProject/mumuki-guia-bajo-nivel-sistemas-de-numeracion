@@ -10,4 +10,4 @@ El segundo término, que multiplica por cero, se puede quitar para que la expres
 
 Como `2^2 = :four:` y `2^0 = :one:`, el número :one::zero::one: en binario representa :five: en el sistema decimal. ¡Y así se puede convertir cualquier número! :grin:
 
-> Ahora es tu turno: escribí en el editor la representación del número :one::zero::one::zero:. Escribí los términos **en orden**, con la potencia más grande primero, y reducí la expresión quitando los términos con cero y las multiplicaciones por uno. O sea, ¡igual que en el ejemplo de este ejercicio! :wink:
+> Ahora es tu turno: escribí en el editor la interpretación del número :one::zero::one::zero:. Escribí los términos **en orden**, con la potencia más grande primero, y reducí la expresión quitando los términos con cero y las multiplicaciones por uno. O sea, ¡igual que en el ejemplo de este ejercicio! :wink:
