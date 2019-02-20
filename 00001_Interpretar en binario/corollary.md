@@ -1,1 +1,3 @@
-Veamos como sale cuando tenemos un bit mas
+Cuando decimos que podemos representar _cualquier_ número, ¿nos referimos a cualquier número en serio? Por ejemplo, puedo escribir `-55` en binario? ¿Y `3.33333`? ¿Y una fracción, como por ejemplo `3/4`?
+
+¡Sí! :grin: Se pueden escribir números negativos y fraccionarios, pero es un poco más complejo que lo que vimos hasta ahora. Para evitar confundirnos, sólo vamos a trabajar con números enteros y positivos. :plus1:

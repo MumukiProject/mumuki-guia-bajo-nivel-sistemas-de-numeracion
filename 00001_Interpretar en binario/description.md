@@ -1,21 +1,13 @@
-## Restringir, esa es la cuestión
+Así como para el sistema decimal utilizamos potencias de diez, en el sistema binario estaremos utilizando potencias de dos. Para poder convertir números de binario a decimal (¡y entender qué significan todos esos ceros y unos :stuck_out_tongue_closed_eyes:), vamos a interpretar el número como hicimos hasta ahora, pero con base 2.
 
-Supongamos ahora un sistema binario **restringido a 2 bits**. Esto quiere decir que todas las cadenas válidas en este sistema tienen 2 bits, y son las que siguen:
+Por ejemplo, para interpretar el número :one::zero::one:, hacemos:
 
-* `00`
-* `01`
-* `10`
-* `11`
+`:one: * 2^2 + :zero: * 2^1 + :one: * 2^0`
 
+El segundo término, que multiplica por cero, se puede quitar para que la expresión sea más simple. Y como la multiplicación por uno no aporta nada, podemos quitar esos :one:. Entonces nos queda...
 
+`2^2 + 2^0`
 
-|Algo de notación|
-|----------------|
-|El sistema binario como lo conocemos se denomina formalmente *Binario Sin Signo* y por eso, al referirnos a este sistema restringido a **n** bits, lo denotaremos  _BSS(n)_.|
+Como `2^2 = :four:` y `2^0 = :one:`, el número :one::zero::one: en binario representa :five: en el sistema decimal. ¡Y así se puede convertir cualquier número! :grin:
 
-
-
-### A trabajar
-Entonces, si la cadena es `11` entonces la interpretación i es `2^1+2^0`
-
->¿Cuál es la interpretación de la cadena 110 en _BSS(3)_?
+> Ahora es tu turno: escribí en el editor la representación del número :one::zero::one::zero:. Escribí los términos **en orden**, con la potencia más grande primero, y reducí la expresión quitando los términos con cero y las multiplicaciones por uno. O sea, ¡igual que en el ejemplo de este ejercicio! :wink:
