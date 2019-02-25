@@ -1,0 +1,8 @@
+- name: La cantidad y rango son correctos
+  keys:
+    cantidad: 
+      equals: 256
+    rangoinferior:
+      equals: 0
+    rangosuperior:
+      equals: 255

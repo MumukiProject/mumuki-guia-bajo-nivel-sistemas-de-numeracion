@@ -1,9 +1,9 @@
 ---
 tags: []
 layout: input_bottom
-editor: text
+editor: free_form
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices: []
-name: Interpretación BSS(8)
+name: Rango en binario
