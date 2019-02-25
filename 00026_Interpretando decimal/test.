@@ -1,2 +1,2 @@
 ---
-equal: ":nine: * 10^2 + :three: * 10^1 + :six: * 10^0"
+equal: ":nine: * 100 + :three: * 10 + :six:"
