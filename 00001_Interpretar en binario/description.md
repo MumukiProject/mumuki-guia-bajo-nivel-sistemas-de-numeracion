@@ -1,13 +1,19 @@
-Así como para el sistema decimal utilizamos potencias de diez, en el sistema binario estaremos utilizando potencias de dos. Para poder convertir números de binario a decimal (¡y entender qué significan todos esos ceros y unos :stuck_out_tongue_closed_eyes:), vamos a interpretar el número como hicimos hasta ahora, pero con base 2.
+Así como para el sistema decimal multiplicábamos la base diez, en el sistema binario estaremos multiplicando al número dos. Para poder convertir números de binario a decimal (¡y entender qué significan todos esos ceros y unos :stuck_out_tongue_closed_eyes:), vamos a interpretar el número como hicimos hasta ahora, pero con base 2.
 
-Por ejemplo, para interpretar el número :one::zero::one:, hacemos:
+Por ejemplo, para interpretar el número :one::one::zero::one:, hacemos igual que con el sistema binario, pero reemplazando el diez por el dos.
 
-`:one: * 2^2 + :zero: * 2^1 + :one: * 2^0`
+Entonces el último dígito no se multiplica; el anteúltimo, se multiplica por dos; el anterior, se multiplica por dos y por dos; y el anterior, se multiplica por dos y por dos y por dos:
 
-El segundo término, que multiplica por cero, se puede quitar para que la expresión sea más simple. Y como la multiplicación por uno no aporta nada, podemos quitar esos :one:. Entonces nos queda...
+`:one: * 2 * 2 * 2 + :one: * 2 * 2 + :zero: * 2 + :one:`
 
-`2^2 + 2^0`
+Hay dos cosas que podemos hacer. Primero, sabemos que `2 * 2` es 4 y que `2 * 2 * 2` es 8. Entonces nos queda...
 
-Como `2^2 = :four:` y `2^0 = :one:`, el número :one::zero::one: en binario representa :five: en el sistema decimal. ¡Y así se puede convertir cualquier número! :grin:
+`:one: * 8 + :one: * 4 + :zero: * 2 + :one:`
 
-> Ahora es tu turno: escribí en el editor la interpretación del número :one::zero::one::zero:. Escribí los términos **en orden**, con la potencia más grande primero, y reducí la expresión quitando los términos con cero y las multiplicaciones por uno. O sea, ¡igual que en el ejemplo de este ejercicio! :wink:
+Y segundo, la multiplicación por :zero: no aporta nada al resultado, por lo que la podemos quitar. Ahora sólo queda...
+
+`:one: * 8 + :one: * 4 + :one:`
+
+¡Y ahora sólo nos falta sumar! `:eight: + :four: + :one: = :one::three:`, lo que significa que el número :one::one::zero::one: en binario representa :one:three: en el sistema decimal. ¡Y así se puede convertir cualquier número! :grin:
+
+> Ahora es tu turno: completá la siguiente oración. Te recomendamos pensar la interpretación de la misma forma que en el ejemplo de este ejercicio :wink: 

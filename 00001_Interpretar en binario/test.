@@ -1,2 +1,4 @@
-equal: '2^2+2^1' 
-ignore_whitespace: true
+- name: La cantidad y rango son correctos
+  keys:
+    numero: 
+      equals: 9

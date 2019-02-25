@@ -1,1 +1,0 @@
-¡Cuidado con las potencias al quitar los términos que sobran! En el ejemplo de :one::zero::one:, al quitar el término con :zero:, se elimina la potencia `2^1`, pero las potencias de ambos :one: se mantienen: `2^2` y `2^0`. ¡Atención a eso! :warning:
