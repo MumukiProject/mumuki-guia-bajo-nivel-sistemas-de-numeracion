@@ -1,0 +1,1 @@
+Recordá que en el sistema decimal, de base diez, tenemos diez valores posibles para cada dígito.

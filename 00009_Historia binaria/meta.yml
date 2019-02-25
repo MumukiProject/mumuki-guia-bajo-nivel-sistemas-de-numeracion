@@ -1,7 +1,7 @@
 ---
 tags: []
 layout: input_right
-editor: text
+editor: free_form
 type: problem
 extra_visible: false
 manual_evaluation: false

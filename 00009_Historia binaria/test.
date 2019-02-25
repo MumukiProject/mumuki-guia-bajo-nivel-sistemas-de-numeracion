@@ -1,2 +1,4 @@
-equal: '2' 
-ignore_whitespace: true
+- name: La base es correcta
+  keys:
+    base:
+      equals: 2
