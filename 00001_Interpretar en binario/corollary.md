@@ -1,3 +1,3 @@
-Cuando decimos que podemos representar _cualquier_ número, ¿nos referimos a cualquier número en serio? Por ejemplo, puedo escribir `-55` en binario? ¿Y `3.33333`? ¿Y una fracción, como por ejemplo `3/4`?
+¡Excelente! :clap:
 
-¡Sí! :grin: Se pueden escribir números negativos y fraccionarios, pero es un poco más complejo que lo que vimos hasta ahora. Para evitar confundirnos, sólo vamos a trabajar con números enteros y positivos. :plus1:
+En la interpretación del número binario habrás notado una similitud con el sistema decimal: si bien sólo tenemos ceros y unos, cada símbolo tiene un _valor_ distinto según en qué posición está. Por eso, al igual que el decimal, el sistema binario es _ponderado_.
