@@ -7,9 +7,15 @@ extra_visible: false
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '2'
+  value: '61'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '3'
+  value: '1600'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '7'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '16'
   checked: true
-name: New exercise
+name: Ni 15 ni 17
