@@ -1,1 +1,0 @@
-¿Como podemos comprobar si lo que hicimos es correcto?

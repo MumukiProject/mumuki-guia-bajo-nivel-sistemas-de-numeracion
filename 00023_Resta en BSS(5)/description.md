@@ -1,1 +1,0 @@
-> ¿Cuál es la cadena resultante de la resta: 01010-01010?
