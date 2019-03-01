@@ -1,0 +1,1 @@
+¡Muy bien! Las cuentas son un poco más complejas que en binario o decimal, porque tenemos que multiplicar por dieciséis, pero el método es siempre el mismo. Existen otros sistemas que se utilizan en computación, como el **sistema octal**, cuya base es `8` (o sea que sus símbolos son `01234567`) y lo podés interpretar de la misma forma que el resto de los sistemas. :plus1:

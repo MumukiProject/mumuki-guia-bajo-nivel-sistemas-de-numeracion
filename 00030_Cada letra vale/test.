@@ -1,0 +1,4 @@
+- name: El número es correcto
+  keys:
+    numero: 
+      equals: 973
