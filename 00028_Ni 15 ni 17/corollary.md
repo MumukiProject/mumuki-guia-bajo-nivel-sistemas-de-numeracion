@@ -1,3 +1,3 @@
-Cuando decimos que podemos representar _cualquier_ número, ¿nos referimos a cualquier número en serio? Por ejemplo, puedo escribir `-55` en binario o hexadecimal? ¿Y `3.375`? ¿Y una fracción, como por ejemplo `3/4`?
+Cuando decimos que podemos representar _cualquier_ número, ¿nos referimos a cualquier número en serio? Por ejemplo, puedo escribir `-55` en binario o hexadecimal? ¿Y una fracción o un número que tenga una parte fraccionaria, como `3/4` ó `2.675555`?
 
 ¡Sí! :grin: Se pueden escribir números negativos y fraccionarios, pero es un poco más complejo que lo que vimos hasta ahora. Para evitar confundirnos, sólo vamos a trabajar con números enteros y positivos. :plus1:
