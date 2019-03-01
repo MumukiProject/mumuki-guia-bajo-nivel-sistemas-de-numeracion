@@ -1,0 +1,9 @@
+- name: El número es correcto
+  keys:
+    binario: 
+      equals: 1111111111111111
+    decimal: 
+      equals: 65535
+    bytes:
+      equals: 2
+    

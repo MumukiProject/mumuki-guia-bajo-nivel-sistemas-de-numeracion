@@ -1,0 +1,1 @@
+`15` es `16 - 1` y `255` es `256 - 1`. ¿Recordás de dónde salen el 16 y el 256? ¿Quizá sea momento de agarrar la calculadora y multiplicar varias veces el `16`? :wink:
