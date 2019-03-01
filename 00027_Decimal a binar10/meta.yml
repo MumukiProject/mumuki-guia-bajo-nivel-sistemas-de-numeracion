@@ -7,4 +7,4 @@ extra_visible: false
 language: ruby
 manual_evaluation: false
 choices: []
-name: Escribiendo en binar10
+name: Decimal a binar10

@@ -6,7 +6,7 @@ El lenguaje [Ruby](https://www.ruby-lang.org/es/), por ejemplo, nos permite conv
 
 ```ruby
 ム 37.to_s(2)
-=> 10011
+=> "10011"
 ``` 
 
 Entre paréntesis escribimos la base del sistema al que queremos convertir, que en binario es `2`. Se puede escribir la base de cualquier otro sistema, así que nos va a servir más adelante. :smirk:
