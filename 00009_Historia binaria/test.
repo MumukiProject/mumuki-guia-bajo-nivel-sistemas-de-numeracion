@@ -1,4 +1,4 @@
 - name: La base es correcta
   keys:
     base:
-      equals: 2
+      equal: 2
