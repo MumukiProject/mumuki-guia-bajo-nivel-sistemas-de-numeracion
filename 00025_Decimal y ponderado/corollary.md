@@ -4,4 +4,4 @@ Hay dos cosas importantes para que pienses en este ejercicio. Primero, que un n�
 
 Y segundo, que la otra respuesta correcta fue expresada de una forma un poco distinta: el 275 puede escribirse como la suma de :two::zero::zero:, :seven::zero: y :five:.
 
-Ahondemos un poco más sobre eso último...
+Ahondemos un poco más sobre eso último... :point_right:
