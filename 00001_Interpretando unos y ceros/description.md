@@ -14,6 +14,6 @@ Y segundo, la multiplicación por :zero: no aporta nada al resultado, por lo que
 
 `:one: * 8 + :one: * 4 + :one:`
 
-¡Y ahora sólo nos falta sumar! `:eight: + :four: + :one: = :one::three:`, lo que significa que el número :one::one::zero::one: en binario representa :one:three: en el sistema decimal. ¡Y así se puede convertir cualquier número! :grin:
+¡Y ahora sólo nos falta sumar! `:eight: + :four: + :one: = :one::three:`, lo que significa que el número :one::one::zero::one: en binario representa :one::three: en el sistema decimal. ¡Y así se puede convertir cualquier número! :grin:
 
 > Ahora es tu turno: completá la siguiente oración. Te recomendamos pensar la interpretación de la misma forma que en el ejemplo de este ejercicio :wink: 

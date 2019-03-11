@@ -1,4 +1,4 @@
-- name: La cantidad y rango son correctos
+- name: El número es correcto
   keys:
     numero: 
-      equals: 9
+      equal: 9
