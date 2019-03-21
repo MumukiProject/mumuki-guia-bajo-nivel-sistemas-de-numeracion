@@ -7,15 +7,15 @@ extra_visible: false
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: ":nine: * 1000 + :three: * 100 + :six: * 10"
+  value: "`:nine: * 1000 + :three: * 100 + :six: * 10`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: ":nine: + 100 + :three: + 10 + :six:"
+  value: "`:nine: + 100 + :three: + 10 + :six:`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: ":nine: * 100 + :three: * 10 + :six:"
+  value: "`:nine: * 100 + :three: * 10 + :six:`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: ":nine: * 10 + :three: * 100 + :six: * 1000"
+  value: "`:nine: * 10 + :three: * 100 + :six: * 1000`"
   checked: false
 name: Interpretando decimal
