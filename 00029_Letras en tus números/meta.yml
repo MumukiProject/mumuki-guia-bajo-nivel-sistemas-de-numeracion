@@ -1,27 +1,27 @@
 ---
 tags: []
-layout: input_right
+layout: input_bottom
 editor: multiple_choice
 type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '10101'
+  value: "`10101`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: 5FB
+  value: "`5FB`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: 3G99
+  value: "`3G99`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: SNES90
+  value: "`SNES90`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '31091218'
+  value: "`31091218`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: CAFE
+  value: "`CAFE`"
   checked: true
 name: Letras en tus números
