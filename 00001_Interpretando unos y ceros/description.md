@@ -1,4 +1,4 @@
-Así como para el sistema decimal multiplicábamos la base diez, en el sistema binario estaremos multiplicando al número dos. Para poder convertir números de binario a decimal (¡y entender qué significan todos esos ceros y unos :stuck_out_tongue_closed_eyes:!), vamos a interpretar el número como hicimos hasta ahora, pero con base 2.
+Así como para el sistema decimal multiplicábamos la base diez, en el sistema binario estaremos multiplicando al número dos. Para poder convertir números de binario a decimal (¡y entender qué significan todos esos ceros y unos! :stuck_out_tongue_closed_eyes:), vamos a interpretar el número como hicimos hasta ahora, pero con base 2.
 
 Por ejemplo, para interpretar el número :one::one::zero::one:, hacemos igual que con el sistema binario, pero reemplazando el diez por el dos.
 
