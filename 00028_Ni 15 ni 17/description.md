@@ -1,4 +1,4 @@
-Ya te explicamos por qué la informática necesita del sistema binario, pero no es cómodo de leer ni escribir para nosotros, los humanos :woman::boy:. Un número de seis cifras, como `600000`, se convierte a un número binario mucho más largo y difícil de interpretar: `10010010011111000000`.
+Ya te explicamos por qué la informática necesita del sistema binario, pero no es cómodo de leer ni escribir para las personas :woman::boy:. Un número de seis cifras, como `600000`, se convierte a un número binario mucho más largo y difícil de interpretar: `10010010011111000000`.
 
 Por esa razón, las personas y las computadoras nos encontramos a mitad de camino mediante el **sistema hexadecimal**. ¡A las computadoras les es fácil convertirlo a binario, y a nosotros nos es más fácil de leer! :blush:
 
