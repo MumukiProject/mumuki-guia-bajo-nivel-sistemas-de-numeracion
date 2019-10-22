@@ -14,7 +14,7 @@ choices:
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: ":five::seven::two:"
-  checked: true
+  checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: ":two::zero::zero: + :seven::zero: + :five:"
   checked: true
